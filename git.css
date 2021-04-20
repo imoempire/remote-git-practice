@@ -1,0 +1,16 @@
+.carousel-inner{
+    height: 80vh;
+}
+.navbar-default {
+    background-color: #f8f8f8;
+    border: 0px;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    height: 10vh; font-size: 50px;
+}
+.footer { 
+    background-color: brown;
+    color: black;
+    height: 10vh;
+}
+.page{ background: blue;}
